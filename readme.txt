@@ -8,7 +8,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-Hi, my name is Shokhrukh and I am trying to learn git/github version control system. I am visual learned and I learn by doing things. So, I decided to make simple recipe project where I'll keep my favorite recipes.
+Hi, my name is Shokhrukh and I am trying to learn git/github version control system. I am visual learned and I learn by doing things. So, I decided to make simple recipe project where I'll keep my favorite recipes. Visit https://shokhrukhshom.github.io/my_recipe/ to checkout my recipe collections. 
 
 
 FREE FOR EVEYONE
